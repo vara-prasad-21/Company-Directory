@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Corp",
+    "location": "Bengaluru",
+    "industry": "Software",
+    "employees": 1200
+  },
+  {
+    "id": 2,
+    "name": "GreenFoods",
+    "location": "Hyderabad",
+    "industry": "Food & Beverage",
+    "employees": 250
+  },
+  {
+    "id": 3,
+    "name": "BlueSky Airlines",
+    "location": "Mumbai",
+    "industry": "Aviation",
+    "employees": 5000
+  },
+  {
+    "id": 4,
+    "name": "FinSecure",
+    "location": "Chennai",
+    "industry": "Finance",
+    "employees": 350
+  },
+  {
+    "id": 5,
+    "name": "MediCare Solutions",
+    "location": "Delhi",
+    "industry": "Healthcare",
+    "employees": 800
+  },
+  {
+    "id": 6,
+    "name": "BuildWell",
+    "location": "Pune",
+    "industry": "Construction",
+    "employees": 150
+  },
+  {
+    "id": 7,
+    "name": "EduNext",
+    "location": "Bengaluru",
+    "industry": "Education",
+    "employees": 90
+  },
+  {
+    "id": 8,
+    "name": "AutoMotion",
+    "location": "Chennai",
+    "industry": "Automotive",
+    "employees": 2200
+  },
+  {
+    "id": 9,
+    "name": "GreenEnergy",
+    "location": "Hyderabad",
+    "industry": "Energy",
+    "employees": 600
+  },
+  {
+    "id": 10,
+    "name": "CloudOps",
+    "location": "Bengaluru",
+    "industry": "Software",
+    "employees": 430
+  },
+  {
+    "id": 11,
+    "name": "HealthyLife",
+    "location": "Mumbai",
+    "industry": "Healthcare",
+    "employees": 70
+  },
+  {
+    "id": 12,
+    "name": "ShopSmart",
+    "location": "Delhi",
+    "industry": "Retail",
+    "employees": 420
+  }
+]
